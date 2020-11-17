@@ -78,7 +78,8 @@
     color: #5863F8;
     text-transform: uppercase;
     font-weight: bold;
-    margin: 23px 125px 0 125px;    
+    margin-top: 23px; 
+    text-align: center;   
 }
 .sec2-h3 {
     margin: 5px 65px 0 65px;
